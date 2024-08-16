@@ -1,1 +1,2 @@
-Esse projeto ensina a como usar o git
+Estou aprendendo a usar o git 
+vendo aula da rafaella ballerini
